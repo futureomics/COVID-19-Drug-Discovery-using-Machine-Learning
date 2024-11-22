@@ -4,6 +4,8 @@
 ![Static Badge](https://img.shields.io/badge/drug_discovery-computational?style=plastic&labelColor=rgb&color=hex)
 ![Static Badge](https://img.shields.io/badge/Machine_Learning-computational?style=plastic&labelColor=rgb&color=hex)
 ![Static Badge](https://img.shields.io/badge/Python_-computational?style=plastic&labelColor=rgb&color=hex)
+![Static Badge](https://img.shields.io/badge/PDB_-computational?style=plastic&labelColor=rgb&color=hex)
+![Static Badge](https://img.shields.io/badge/Scikit_learn-computational?style=plastic&labelColor=rgb&color=hex)
 
 COVID 19 Drug Discovery using Machine Learning
 
