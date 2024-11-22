@@ -1,4 +1,10 @@
 # COVID-19-Drug-Discovery-using-Machine-Learning
+![Static Badge](https://img.shields.io/badge/Bioinformatics_-computational?style=plastic&labelColor=rgb&color=hex)
+![Static Badge](https://img.shields.io/badge/COVID-computational?style=plastic&labelColor=rgb&color=hex)
+![Static Badge](https://img.shields.io/badge/drug_discovery-computational?style=plastic&labelColor=rgb&color=hex)
+![Static Badge](https://img.shields.io/badge/Machine_Learning-computational?style=plastic&labelColor=rgb&color=hex)
+![Static Badge](https://img.shields.io/badge/Python_-computational?style=plastic&labelColor=rgb&color=hex)
+
 COVID 19 Drug Discovery using Machine Learning
 
 Drug discovery for COVID-19 using machine learning (ML) in Python involves several stages, including data collection, feature engineering, model training, and evaluation. ML can be used to predict potential drug candidates by analyzing chemical structures, biological activities, and other relevant data.
