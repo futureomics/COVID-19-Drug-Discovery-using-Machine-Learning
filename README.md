@@ -1,7 +1,7 @@
 # COVID-19-Drug-Discovery-using-Machine-Learning
 ![Static Badge](https://img.shields.io/badge/Bioinformatics_-computational?style=plastic&labelColor=rgb&color=hex)
 ![Static Badge](https://img.shields.io/badge/COVID-computational?style=plastic&labelColor=rgb&color=hex)
-![Static Badge](https://img.shields.io/badge/drug_discovery-computational?style=plastic&labelColor=rgb&color=hex)
+![Static Badge](https://img.shields.io/badge/Drug_Discovery-computational?style=plastic&labelColor=rgb&color=hex)
 ![Static Badge](https://img.shields.io/badge/Machine_Learning-computational?style=plastic&labelColor=rgb&color=hex)
 ![Static Badge](https://img.shields.io/badge/Python_-computational?style=plastic&labelColor=rgb&color=hex)
 ![Static Badge](https://img.shields.io/badge/PDB_-computational?style=plastic&labelColor=rgb&color=hex)
